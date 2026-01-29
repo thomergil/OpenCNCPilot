@@ -8,7 +8,7 @@ This is especially useful for engraving metal surfaces with V-shaped cutters whe
 ![Screenshot](https://raw.githubusercontent.com/martin2250/OpenCNCPilot/master/img/Screenshot.png)
 
 It is written in C# and uses WPF for its UI. Sadly this means that it will not run under linux as Mono does not support WPF.
-The 3D viewport is managed with HelixToolkit.
+The 3D viewport is managed with HelixToolkit. (There is a [terminal-only fork from OpenCNCPilot called coppercli](https://github.com/thomergil/coppercli) that also works on Linux and Mac.)
 
 Here is a quick overview on YouTube [https://www.youtube.com/watch?v=XDCu3cgOjCY](https://www.youtube.com/watch?v=XDCu3cgOjCY)  
 
